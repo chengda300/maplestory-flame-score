@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flame score:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flame_score_jar</output-path>
+    <root id="archive" name="flame score.jar">
+      <element id="module-output" name="flame score" />
+    </root>
+  </artifact>
+</component>

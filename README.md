@@ -52,4 +52,4 @@ This calculator uses Java, which is a compiled language, so it computes much fas
 1. Ensure that Java 11 or later is installed on the computer.
 2. Download the JAR file into **your user folder ("C:/Users/{your user folder}")**.
 3. Open Command Prompt.
-4. Type "java -jar "flame score.jar" and press Enter.
+4. Type "java -jar "flame.score.jar" and press Enter.
